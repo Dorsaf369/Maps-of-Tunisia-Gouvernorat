@@ -1,0 +1,93 @@
+"Area","Sexe","Region Code","Region ISO","Region Name","Number of active people not employed (Unemployed)","Number of active people Occupied","Number of Inactive people","Number of people aged 15 and more in 2014","Unemployment rate of the population in 2014"
+"Rural","Female",12,"TN-12","L'Ariana",1171,6564,15612,23347,15.14
+"Rural","Female",13,"TN-13","Ben Arous",1243,5156,14926,21325,19.42
+"Rural","Female",14,"TN-14","Manouba",2148,6276,26046,34470,25.5
+"Rural","Female",15,"TN-21","Nabeul",4096,31554,58730,94380,11.49
+"Rural","Female",16,"TN-22","Zaghouan",2611,7705,27801,38117,25.31
+"Rural","Female",17,"TN-23","Bizerte",2521,10444,60333,73298,19.44
+"Rural","Female",21,"TN-31","Bèja",3390,7039,55130,65559,32.51
+"Rural","Female",22,"TN-32","Jendouba",6674,7626,98052,112352,46.67
+"Rural","Female",23,"TN-33","Gouvernorat du Kef",1949,5039,34685,41673,27.89
+"Rural","Female",24,"TN-34","Siliana",2384,6260,41080,49724,27.58
+"Rural","Female",31,"TN-51","Sousse",1997,9946,34984,46927,16.72
+"Rural","Female",33,"TN-53","Mahdia",2592,11226,71203,85021,18.76
+"Rural","Female",34,"TN-61","Sfax",6793,17306,109642,133741,28.19
+"Rural","Female",41,"TN-41","Kairouan",5690,14353,118303,138346,28.39
+"Rural","Female",42,"TN-42","Kasserine",4052,7822,78487,90361,34.12
+"Rural","Female",43,"TN-43","Sidi Bouzid",5573,19154,94438,119165,22.54
+"Rural","Female",51,"TN-81","Gabès",2657,4173,38282,45112,38.9
+"Rural","Female",52,"TN-82","Medenine",3403,2650,35911,41964,56.22
+"Rural","Female",53,"TN-83","Tataouine",1441,1197,19589,22227,54.62
+"Rural","Female",61,"TN-71","Gafsa",2354,4368,26953,33675,35.02
+"Rural","Female",62,"TN-72","Tozeur",591,2055,9354,12000,22.34
+"Rural","Female",63,"TN-73","Kébili",2490,2861,22447,27798,46.53
+"Rural","Male",12,"TN-12","L'Ariana",1302,16046,6807,24155,7.51
+"Rural","Male",13,"TN-13","Ben Arous",1725,14109,5986,21820,10.89
+"Rural","Male",14,"TN-14","Manouba",2980,21927,10645,35552,11.96
+"Rural","Male",15,"TN-21","Nabeul",5406,64045,25530,94981,7.78
+"Rural","Male",16,"TN-22","Zaghouan",3909,20322,12758,36989,16.13
+"Rural","Male",17,"TN-23","Bizerte",5540,45611,25323,76474,10.83
+"Rural","Male",21,"TN-31","Bèja",5504,35587,23923,65014,13.39
+"Rural","Male",22,"TN-32","Jendouba",12333,44886,46336,103555,21.55
+"Rural","Male",23,"TN-33","Gouvernorat du Kef",3179,23038,14744,40961,12.13
+"Rural","Male",24,"TN-34","Siliana",4426,24388,17813,46627,15.36
+"Rural","Male",31,"TN-51","Sousse",3329,27582,15627,46538,10.77
+"Rural","Male",33,"TN-53","Mahdia",5397,40764,28366,74527,11.69
+"Rural","Male",34,"TN-61","Sfax",10648,77479,44561,132688,12.08
+"Rural","Male",41,"TN-41","Kairouan",9164,67753,49842,126759,11.91
+"Rural","Male",42,"TN-42","Kasserine",7039,44229,35315,86583,13.73
+"Rural","Male",43,"TN-43","Sidi Bouzid",7957,62613,44714,115284,11.28
+"Rural","Male",51,"TN-81","Gabès",3100,20699,15826,39625,13.03
+"Rural","Male",52,"TN-82","Medenine",2612,20696,11797,35105,11.21
+"Rural","Male",53,"TN-83","Tataouine",2256,8921,6945,18122,20.18
+"Rural","Male",61,"TN-71","Gafsa",3012,16840,11337,31189,15.17
+"Rural","Male",62,"TN-72","Tozeur",860,7004,3882,11746,10.94
+"Rural","Male",63,"TN-73","Kébili",2553,14227,9743,26523,15.21
+"Urban","Female",11,"TN-11","Tunis",27724,121556,273225,422505,18.57
+"Urban","Female",12,"TN-12","L'Ariana",11495,61713,121769,194977,15.7
+"Urban","Female",13,"TN-13","Ben Arous",14614,65877,141861,222352,18.16
+"Urban","Female",14,"TN-14","Manouba",9518,28206,73463,111187,25.23
+"Urban","Female",15,"TN-21","Nabeul",11472,61164,129394,202030,15.79
+"Urban","Female",16,"TN-22","Zaghouan",2251,10454,16380,29085,17.72
+"Urban","Female",17,"TN-23","Bizerte",7944,35543,99983,143470,18.27
+"Urban","Female",21,"TN-31","Bèja",4748,12508,35990,53246,27.52
+"Urban","Female",22,"TN-32","Jendouba",5435,10247,33887,49569,34.66
+"Urban","Female",23,"TN-33","Gouvernorat du Kef",5258,11918,38327,55503,30.61
+"Urban","Female",24,"TN-34","Siliana",2863,8956,25364,37183,24.22
+"Urban","Female",31,"TN-51","Sousse",11832,62772,133069,207673,15.86
+"Urban","Female",32,"TN-52","Monastir",9319,66518,128558,204395,12.29
+"Urban","Female",33,"TN-53","Mahdia",3248,16973,51351,71572,16.06
+"Urban","Female",34,"TN-61","Sfax",11690,53913,163928,229531,17.82
+"Urban","Female",41,"TN-41","Kairouan",6568,15728,54421,76717,29.46
+"Urban","Female",42,"TN-42","Kasserine",8362,11671,51977,72010,41.74
+"Urban","Female",43,"TN-43","Sidi Bouzid",5178,9021,29059,43258,36.47
+"Urban","Female",51,"TN-81","Gabès",9055,15644,76566,101265,36.66
+"Urban","Female",52,"TN-82","Medenine",9442,21776,113200,144418,30.25
+"Urban","Female",53,"TN-83","Tataouine",4073,4731,29317,38121,46.26
+"Urban","Female",61,"TN-71","Gafsa",11756,13797,71553,97106,46.01
+"Urban","Female",62,"TN-72","Tozeur",2271,5925,20939,29135,27.71
+"Urban","Female",63,"TN-73","Kébili",3236,5317,24056,32609,37.83
+"Urban","Male",11,"TN-11","Tunis",30801,241489,142802,415092,11.31
+"Urban","Male",12,"TN-12","L'Ariana",12284,122977,61638,196899,9.08
+"Urban","Male",13,"TN-13","Ben Arous",14984,130455,73304,218743,10.3
+"Urban","Male",14,"TN-14","Manouba",10664,64612,36325,111601,14.17
+"Urban","Male",15,"TN-21","Nabeul",10910,131772,62339,205021,7.65
+"Urban","Male",16,"TN-22","Zaghouan",2422,17720,8016,28158,12.02
+"Urban","Male",17,"TN-23","Bizerte",9888,80031,50128,140047,11
+"Urban","Male",21,"TN-31","Bèja",4702,29415,16986,51103,13.78
+"Urban","Male",22,"TN-32","Jendouba",5343,24077,16931,46351,18.16
+"Urban","Male",23,"TN-33","Gouvernorat du Kef",5143,28267,19017,52427,15.39
+"Urban","Male",24,"TN-34","Siliana",2925,19197,12050,34172,13.22
+"Urban","Male",31,"TN-51","Sousse",11968,124430,68043,204441,8.77
+"Urban","Male",32,"TN-52","Monastir",9487,121908,67461,198856,7.22
+"Urban","Male",33,"TN-53","Mahdia",3609,39157,24047,66813,8.44
+"Urban","Male",34,"TN-61","Sfax",9992,140930,77796,228718,6.62
+"Urban","Male",41,"TN-41","Kairouan",6807,40408,25057,72272,14.42
+"Urban","Male",42,"TN-42","Kasserine",8858,34664,25586,69108,20.35
+"Urban","Male",43,"TN-43","Sidi Bouzid",4505,22432,15289,42226,16.72
+"Urban","Male",51,"TN-81","Gabès",7694,55082,34320,97096,12.26
+"Urban","Male",52,"TN-82","Medenine",7787,85659,43193,136639,8.33
+"Urban","Male",53,"TN-83","Tataouine",4315,17730,11631,33676,19.57
+"Urban","Male",61,"TN-71","Gafsa",12247,47424,34178,93849,20.52
+"Urban","Male",62,"TN-72","Tozeur",2021,16409,8846,27276,10.97
+"Urban","Male",63,"TN-73","Kébili",2556,18252,10523,31331,12.28
